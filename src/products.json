@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "iphone 17promax",
+        "stock":"สินค้าคงเหลือ 100",
+        "category":"โทรศัพท์",
+        "price": 53000
+        ,"image": "https://inwfile.com/s-cm/0y09ja.jpg"
+    },
+    {
+        "id": 2,
+        "name": "samsung Galaxy S26 ultra",
+         "stock":"สินค้าคงเหลือ 100",
+         "category":"โทรศัพท์",
+        "price": 52900
+        ,"image": "https://inwfile.com/s-cm/acpw9f.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Xioami 17ultra",
+         "stock":"สินค้าคงเหลือ 100",
+         "category":"โทรศัพท์",
+        "price":50000
+        ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTakuwCi_sQ4Mj0sQBiw8pyctR7GVBA4LXlaXEyCEoWw&s=10"
+    },
+    {
+        "id": 4,
+        "name": "oppo findx 9ultra",
+         "stock":"สินค้าคงเหลือ 100",
+         "category":"โทรศัพท์",
+        "price":53000
+        ,"image": "https://i.ytimg.com/vi/YAhKoa0ruR8/maxresdefault.jpg"
+    },
+    {
+        "id": 5,
+        "name": "vivo x500 pro",
+         "stock":"สินค้าคงเหลือ 100",
+         "category":"โทรศัพท์",
+        "price":55000
+        ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5hTNSWcSjrohf_VK4Rc0_B_5hy_6aVLTuUyOSEk53RA&s"
+    },
+ {
+        "id": 6,
+        "name": "one plus16",
+         "stock":"สินค้าคงเหลือ 100",
+         "category":"โทรศัพท์",
+        "price":40000
+        ,"image": "https://external-preview.redd.it/oneplus-16-officially-teased-with-three-performance-focused-v0-poW5kOTPDB5Q-LD33eLNgFEpBrPpuKFDSDpn462TTR4.jpeg?width=640&crop=smart&auto=webp&s=54258b36fe02037c41214bda10a1d21432b50b44"
+    },
+{
+        "id": 7,
+        "name": "poco f8ultra",
+         "stock":"สินค้าคงเหลือ 100",
+         "category":"โทรศัพท์",
+        "price":52000
+        ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv2RBqVFx2wr6F69MIOW5S4dMWNsizHq-qS6fVeEQ4k0xbZDdISZqCyjY&s=10"
+},
+{
+        "id": 8,
+        "name": "Redmagic 12pro",
+         "stock":"สินค้าคงเหลือ 100",
+         "category":"โทรศัพท์",
+        "price":56000
+        ,"image": "https://th.redmagic.gg/cdn/shop/files/pc_Nightfreeze-1.png?v=1793187628&width=1695"
+},
+{
+        "id": 9,
+        "name": "Rog phone 9pro",
+         "stock":"สินค้าคงเหลือ 100",
+         "category":"โทรศัพท์",
+        "price":54000
+        ,"image": "https://dlcdnwebimgs.asus.com/gain/8D85BFE0-F7E5-406E-96D7-79D35CB96648"
+},
+{
+        "id": 10,
+        "name": "Nokia 100 pro max ultra plus air",
+         "stock":"สินค้าคงเหลือ 100",
+         "category":"โทรศัพท์",
+        "price":1000000000
+        ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_IdQSSFI7dtP5wEDGr5AirC2lNqmQw1HTUqqWAViYZg&s"
+}
+]
